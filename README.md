@@ -1,0 +1,5 @@
+# RustyDusty
+
+```bash
+cargo run
+```

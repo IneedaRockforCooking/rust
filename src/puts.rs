@@ -15,8 +15,7 @@ pub fn ggg() {
     println!("binary {:\
     b} hex {:\
     x} octal {:o\
-    }",10,
-             10,10);
+    }",10,10,10);
     // Placeholder for Debug Trait
     println!("{:?}",(12,true,"he"));
     // Basic Math

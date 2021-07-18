@@ -20,6 +20,7 @@ fn main() {
         ));
     // Get boolean from
     let jojo = 1000 > 100000%5;
+
     println!("{}",jojo);
 
     let smile = "\u{1f600}";

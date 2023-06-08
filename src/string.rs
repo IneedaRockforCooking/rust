@@ -1,7 +1,7 @@
 pub fn hello() {
     let mut hello = String::from("Hey");
     println!("{}",hello);
-    println!("length of above {}",hello.len());
+    println!("length of above{}",hello.len());
     // push charcater only one char
     // '' needed
     hello.push('d');

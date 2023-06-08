@@ -1,7 +1,7 @@
 /*
 pRIMITIVEC tYPES
 Integeres: u8 i8 u16 i16 u32 i32 u64 i64 u128 i128
-            number ov bits they take for memory
+          number ov bits they take for memory
 Float f32 f64
 boolean bool
 character char
